@@ -1,0 +1,24 @@
+.main {
+    height: 1000px;
+    width: 100%;
+    border: 1px solid black;
+    background: #55A3E2;
+}
+
+.main h1 {
+    text-align: center;
+    margin-top: 70px;
+    line-height: 10px;
+}
+
+.Stop {
+    height: 40px;
+    width: 20%;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.Stop button {
+    gap: 50px;
+}
